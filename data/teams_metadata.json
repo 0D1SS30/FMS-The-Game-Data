@@ -1,0 +1,3087 @@
+{
+  "leagues": {
+    "I1": {
+      "safe_name": "Italy - Division 1",
+      "raw_name": "Serie A",
+      "country": "ITA"
+    },
+    "I2": {
+      "safe_name": "Italy - Division 2",
+      "raw_name": "Serie B",
+      "country": "ITA"
+    },
+    "E0": {
+      "safe_name": "England - Division 1",
+      "raw_name": "Premier League",
+      "country": "ENG"
+    },
+    "E1": {
+      "safe_name": "England - Division 2",
+      "raw_name": "Championship",
+      "country": "ENG"
+    },
+    "SP1": {
+      "safe_name": "Spain - Division 1",
+      "raw_name": "LaLiga",
+      "country": "ESP"
+    },
+    "SP2": {
+      "safe_name": "Spain - Division 2",
+      "raw_name": "Segunda Division",
+      "country": "ESP"
+    },
+    "D1": {
+      "safe_name": "Germany - Division 1",
+      "raw_name": "Bundesliga",
+      "country": "GER"
+    },
+    "D2": {
+      "safe_name": "Germany - Division 2",
+      "raw_name": "2. Bundesliga",
+      "country": "GER"
+    },
+    "F1": {
+      "safe_name": "France - Division 1",
+      "raw_name": "Ligue 1",
+      "country": "FRA"
+    },
+    "F2": {
+      "safe_name": "France - Division 2",
+      "raw_name": "Ligue 2",
+      "country": "FRA"
+    },
+    "N1": {
+      "safe_name": "Netherlands - Division 1",
+      "raw_name": "Eredivisie",
+      "country": "NED"
+    },
+    "P1": {
+      "safe_name": "Portugal - Division 1",
+      "raw_name": "Primeira Liga",
+      "country": "POR"
+    },
+    "T1": {
+      "safe_name": "Turkey - Division 1",
+      "raw_name": "Super Lig",
+      "country": "TUR"
+    },
+    "G1": {
+      "safe_name": "Greece - Division 1",
+      "raw_name": "Super League",
+      "country": "GRE"
+    },
+    "B1": {
+      "safe_name": "Belgium - Division 1",
+      "raw_name": "Pro League",
+      "country": "BEL"
+    }
+  },
+  "teams": {
+    "Anderlecht": {
+      "raw_name": "Anderlecht",
+      "safe_name": "Brussels Mauves",
+      "league": "B1",
+      "primary_color": "#582C83",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#582C83",
+      "pattern": "solid"
+    },
+    "St Truiden": {
+      "raw_name": "St Truiden",
+      "safe_name": "St Truiden Royal",
+      "league": "B1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Beerschot VA": {
+      "raw_name": "Beerschot VA",
+      "safe_name": "Beerschot VA Standard",
+      "league": "B1",
+      "primary_color": "#59CBE8",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#13294B",
+      "pattern": "solid"
+    },
+    "Oud-Heverlee Leuven": {
+      "raw_name": "Oud-Heverlee Leuven",
+      "safe_name": "Oud-Heverlee Leuven Royal",
+      "league": "B1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Charleroi": {
+      "raw_name": "Charleroi",
+      "safe_name": "Charleroi Royal",
+      "league": "B1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#151515",
+      "shorts_color": "#151515",
+      "pattern": "stripes"
+    },
+    "Antwerp": {
+      "raw_name": "Antwerp",
+      "safe_name": "Antwerp Reds",
+      "league": "B1",
+      "primary_color": "#D4001A",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Club Brugge": {
+      "raw_name": "Club Brugge",
+      "safe_name": "Bruges Blue-Black",
+      "league": "B1",
+      "primary_color": "#005CA9",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Mechelen": {
+      "raw_name": "Mechelen",
+      "safe_name": "Mechelen Sporting",
+      "league": "B1",
+      "primary_color": "#FFD100",
+      "secondary_color": "#004B9B",
+      "shorts_color": "#004B9B",
+      "pattern": "solid"
+    },
+    "Dender": {
+      "raw_name": "Dender",
+      "safe_name": "Dender Royal",
+      "league": "B1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#151515",
+      "shorts_color": "#151515",
+      "pattern": "stripes"
+    },
+    "St. Gilloise": {
+      "raw_name": "St. Gilloise",
+      "safe_name": "Brussels Yellow-Blue",
+      "league": "B1",
+      "primary_color": "#FDE100",
+      "secondary_color": "#0055A4",
+      "shorts_color": "#0055A4",
+      "pattern": "solid"
+    },
+    "Genk": {
+      "raw_name": "Genk",
+      "safe_name": "Limburg Blue-White",
+      "league": "B1",
+      "primary_color": "#0055A4",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#0055A4",
+      "pattern": "solid"
+    },
+    "Standard": {
+      "raw_name": "Standard",
+      "safe_name": "Liege Reds",
+      "league": "B1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Kortrijk": {
+      "raw_name": "Kortrijk",
+      "safe_name": "Kortrijk Union",
+      "league": "B1",
+      "primary_color": "#5B2C83",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#5B2C83",
+      "pattern": "solid"
+    },
+    "Gent": {
+      "raw_name": "Gent",
+      "safe_name": "Flanders Buffalos",
+      "league": "B1",
+      "primary_color": "#004B9B",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#004B9B",
+      "pattern": "solid"
+    },
+    "Westerlo": {
+      "raw_name": "Westerlo",
+      "safe_name": "Westerlo Union",
+      "league": "B1",
+      "primary_color": "#5B2C83",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#5B2C83",
+      "pattern": "solid"
+    },
+    "Cercle Brugge": {
+      "raw_name": "Cercle Brugge",
+      "safe_name": "Cercle Brugge Standard",
+      "league": "B1",
+      "primary_color": "#59CBE8",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#13294B",
+      "pattern": "solid"
+    },
+    "M'gladbach": {
+      "raw_name": "M'gladbach",
+      "safe_name": "Rhineland Foals",
+      "league": "D1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#111111",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Leverkusen": {
+      "raw_name": "Leverkusen",
+      "safe_name": "Rhine Red-Black",
+      "league": "D1",
+      "primary_color": "#E32221",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Augsburg": {
+      "raw_name": "Augsburg",
+      "safe_name": "Augsburg White-Green",
+      "league": "D1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#BA3733",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Werder Bremen": {
+      "raw_name": "Werder Bremen",
+      "safe_name": "Weser Green-White",
+      "league": "D1",
+      "primary_color": "#1D9053",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Freiburg": {
+      "raw_name": "Freiburg",
+      "safe_name": "Breisgau Griffins",
+      "league": "D1",
+      "primary_color": "#D4001A",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Stuttgart": {
+      "raw_name": "Stuttgart",
+      "safe_name": "Swabia White-Red",
+      "league": "D1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#E32219",
+      "shorts_color": "#FFFFFF",
+      "pattern": "hoops"
+    },
+    "Hoffenheim": {
+      "raw_name": "Hoffenheim",
+      "safe_name": "Kraichgau Blues",
+      "league": "D1",
+      "primary_color": "#1C63B7",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#1C63B7",
+      "pattern": "solid"
+    },
+    "Holstein Kiel": {
+      "raw_name": "Holstein Kiel",
+      "safe_name": "Holstein Kiel Borussia",
+      "league": "D2",
+      "primary_color": "#FFD100",
+      "secondary_color": "#004B9B",
+      "shorts_color": "#004B9B",
+      "pattern": "solid"
+    },
+    "Mainz": {
+      "raw_name": "Mainz",
+      "safe_name": "Mainz Carnival",
+      "league": "D1",
+      "primary_color": "#C3141E",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Union Berlin": {
+      "raw_name": "Union Berlin",
+      "safe_name": "East Berlin Iron",
+      "league": "D1",
+      "primary_color": "#D4011D",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#D4011D",
+      "pattern": "solid"
+    },
+    "RB Leipzig": {
+      "raw_name": "RB Leipzig",
+      "safe_name": "Saxony Red Bulls",
+      "league": "D1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#DD0741",
+      "shorts_color": "#DD0741",
+      "pattern": "sleeves"
+    },
+    "Bochum": {
+      "raw_name": "Bochum",
+      "safe_name": "Bochum Fortuna",
+      "league": "D2",
+      "primary_color": "#008037",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "hoops"
+    },
+    "Dortmund": {
+      "raw_name": "Dortmund",
+      "safe_name": "Ruhr Black-Yellow",
+      "league": "D1",
+      "primary_color": "#FDE100",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Ein Frankfurt": {
+      "raw_name": "Ein Frankfurt",
+      "safe_name": "Main Eagles",
+      "league": "D1",
+      "primary_color": "#E1000F",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Wolfsburg": {
+      "raw_name": "Wolfsburg",
+      "safe_name": "Lower Saxony Wolves",
+      "league": "D2",
+      "primary_color": "#65B32E",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#65B32E",
+      "pattern": "solid"
+    },
+    "Bayern Munich": {
+      "raw_name": "Bayern Munich",
+      "safe_name": "Bavaria Red-White",
+      "league": "D1",
+      "primary_color": "#DC052D",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#DC052D",
+      "pattern": "solid"
+    },
+    "St Pauli": {
+      "raw_name": "St Pauli",
+      "safe_name": "Hamburg Pirates",
+      "league": "D2",
+      "primary_color": "#624839",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#624839",
+      "pattern": "solid"
+    },
+    "Heidenheim": {
+      "raw_name": "Heidenheim",
+      "safe_name": "Heidenheim Eintracht",
+      "league": "D2",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "FC Koln": {
+      "raw_name": "FC Koln",
+      "safe_name": "Cologne Billy Goats",
+      "league": "D1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#E30613",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Hamburg": {
+      "raw_name": "Hamburg",
+      "safe_name": "Hamburg Red-Shorts",
+      "league": "D1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#005CA9",
+      "shorts_color": "#E30613",
+      "pattern": "solid"
+    },
+    "Hannover": {
+      "raw_name": "Hannover",
+      "safe_name": "Hannover Eintracht",
+      "league": "D2",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Regensburg": {
+      "raw_name": "Regensburg",
+      "safe_name": "Regensburg Eintracht",
+      "league": "D2",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#151515",
+      "shorts_color": "#151515",
+      "pattern": "stripes"
+    },
+    "Hertha": {
+      "raw_name": "Hertha",
+      "safe_name": "Berlin Blue-White",
+      "league": "D2",
+      "primary_color": "#005CA9",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#005CA9",
+      "pattern": "stripes"
+    },
+    "Paderborn": {
+      "raw_name": "Paderborn",
+      "safe_name": "Paderborn SV",
+      "league": "D1",
+      "primary_color": "#801538",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Karlsruhe": {
+      "raw_name": "Karlsruhe",
+      "safe_name": "Karlsruhe SV",
+      "league": "D2",
+      "primary_color": "#C8102E",
+      "secondary_color": "#003399",
+      "shorts_color": "#003399",
+      "pattern": "stripes"
+    },
+    "Nurnberg": {
+      "raw_name": "Nurnberg",
+      "safe_name": "Nurnberg VfL",
+      "league": "D2",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Magdeburg": {
+      "raw_name": "Magdeburg",
+      "safe_name": "Magdeburg Eintracht",
+      "league": "D2",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Elversberg": {
+      "raw_name": "Elversberg",
+      "safe_name": "Elversberg VfL",
+      "league": "D1",
+      "primary_color": "#0055A4",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Schalke 04": {
+      "raw_name": "Schalke 04",
+      "safe_name": "Gelsenkirchen Royal Blue",
+      "league": "D1",
+      "primary_color": "#004D9D",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Braunschweig": {
+      "raw_name": "Braunschweig",
+      "safe_name": "Braunschweig Eintracht",
+      "league": "D2",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#151515",
+      "shorts_color": "#151515",
+      "pattern": "stripes"
+    },
+    "Darmstadt": {
+      "raw_name": "Darmstadt",
+      "safe_name": "Darmstadt VfL",
+      "league": "D2",
+      "primary_color": "#0055A4",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Fortuna Dusseldorf": {
+      "raw_name": "Fortuna Dusseldorf",
+      "safe_name": "Fortuna Dusseldorf SV",
+      "league": "D2",
+      "primary_color": "#801538",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Greuther Furth": {
+      "raw_name": "Greuther Furth",
+      "safe_name": "Greuther Furth Fortuna",
+      "league": "D2",
+      "primary_color": "#008037",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "hoops"
+    },
+    "Preußen Münster": {
+      "raw_name": "Preußen Münster",
+      "safe_name": "Preußen Münster SV",
+      "league": "D2",
+      "primary_color": "#801538",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Ulm": {
+      "raw_name": "Ulm",
+      "safe_name": "Ulm Eintracht",
+      "league": "D2",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Kaiserslautern": {
+      "raw_name": "Kaiserslautern",
+      "safe_name": "Kaiserslautern VfL",
+      "league": "D2",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Man United": {
+      "raw_name": "Man United",
+      "safe_name": "Manchester Devils",
+      "league": "E0",
+      "primary_color": "#DA291C",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Fulham": {
+      "raw_name": "Fulham",
+      "safe_name": "Craven Whites",
+      "league": "E0",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Ipswich": {
+      "raw_name": "Ipswich",
+      "safe_name": "Suffolk Blues",
+      "league": "E0",
+      "primary_color": "#3A64A3",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Liverpool": {
+      "raw_name": "Liverpool",
+      "safe_name": "Merseyside Red",
+      "league": "E0",
+      "primary_color": "#C8102E",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#C8102E",
+      "pattern": "solid"
+    },
+    "Arsenal": {
+      "raw_name": "Arsenal",
+      "safe_name": "North London Red",
+      "league": "E0",
+      "primary_color": "#EF0107",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "sleeves"
+    },
+    "Wolves": {
+      "raw_name": "Wolves",
+      "safe_name": "Midlands Gold",
+      "league": "E1",
+      "primary_color": "#FDB913",
+      "secondary_color": "#231F20",
+      "shorts_color": "#231F20",
+      "pattern": "solid"
+    },
+    "Everton": {
+      "raw_name": "Everton",
+      "safe_name": "Merseyside Toffees",
+      "league": "E0",
+      "primary_color": "#003399",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Brighton": {
+      "raw_name": "Brighton",
+      "safe_name": "Sussex Seagulls",
+      "league": "E0",
+      "primary_color": "#0057B8",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#0057B8",
+      "pattern": "stripes"
+    },
+    "Newcastle": {
+      "raw_name": "Newcastle",
+      "safe_name": "Tyneside Magpies",
+      "league": "E0",
+      "primary_color": "#111111",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Southampton": {
+      "raw_name": "Southampton",
+      "safe_name": "Hampshire Saints",
+      "league": "E1",
+      "primary_color": "#D71920",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Nott'm Forest": {
+      "raw_name": "Nott'm Forest",
+      "safe_name": "Sherwood Reds",
+      "league": "E0",
+      "primary_color": "#DD0000",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Bournemouth": {
+      "raw_name": "Bournemouth",
+      "safe_name": "Dorset Cherries",
+      "league": "E0",
+      "primary_color": "#DA291C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "West Ham": {
+      "raw_name": "West Ham",
+      "safe_name": "East London Irons",
+      "league": "E1",
+      "primary_color": "#7A263A",
+      "secondary_color": "#1BB1E7",
+      "shorts_color": "#FFFFFF",
+      "pattern": "sleeves"
+    },
+    "Aston Villa": {
+      "raw_name": "Aston Villa",
+      "safe_name": "Birmingham Claret",
+      "league": "E0",
+      "primary_color": "#670E36",
+      "secondary_color": "#95BFE5",
+      "shorts_color": "#FFFFFF",
+      "pattern": "sleeves"
+    },
+    "Brentford": {
+      "raw_name": "Brentford",
+      "safe_name": "West London Bees",
+      "league": "E0",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Crystal Palace": {
+      "raw_name": "Crystal Palace",
+      "safe_name": "South London Eagles",
+      "league": "E0",
+      "primary_color": "#1B458F",
+      "secondary_color": "#C4122E",
+      "shorts_color": "#1B458F",
+      "pattern": "stripes"
+    },
+    "Chelsea": {
+      "raw_name": "Chelsea",
+      "safe_name": "West London Blue",
+      "league": "E0",
+      "primary_color": "#034694",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#034694",
+      "pattern": "solid"
+    },
+    "Man City": {
+      "raw_name": "Man City",
+      "safe_name": "Manchester Sky",
+      "league": "E0",
+      "primary_color": "#6CABDD",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Leicester": {
+      "raw_name": "Leicester",
+      "safe_name": "Midlands Foxes",
+      "league": "E0",
+      "primary_color": "#003090",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Tottenham": {
+      "raw_name": "Tottenham",
+      "safe_name": "North London Lilywhites",
+      "league": "E0",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#132257",
+      "shorts_color": "#132257",
+      "pattern": "solid"
+    },
+    "Blackburn": {
+      "raw_name": "Blackburn",
+      "safe_name": "Blackburn City",
+      "league": "E1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Derby": {
+      "raw_name": "Derby",
+      "safe_name": "Derby Town",
+      "league": "E1",
+      "primary_color": "#59CBE8",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#13294B",
+      "pattern": "solid"
+    },
+    "Preston": {
+      "raw_name": "Preston",
+      "safe_name": "Preston Rovers",
+      "league": "E1",
+      "primary_color": "#FFD100",
+      "secondary_color": "#004B9B",
+      "shorts_color": "#004B9B",
+      "pattern": "solid"
+    },
+    "Sheffield United": {
+      "raw_name": "Sheffield United",
+      "safe_name": "Steel City Blades",
+      "league": "E1",
+      "primary_color": "#EE2737",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Cardiff": {
+      "raw_name": "Cardiff",
+      "safe_name": "Cardiff United",
+      "league": "E1",
+      "primary_color": "#801538",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Sunderland": {
+      "raw_name": "Sunderland",
+      "safe_name": "Wearside Black Cats",
+      "league": "E0",
+      "primary_color": "#EB172B",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Hull": {
+      "raw_name": "Hull",
+      "safe_name": "Hull Wanderers",
+      "league": "E0",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Bristol City": {
+      "raw_name": "Bristol City",
+      "safe_name": "Bristol City United",
+      "league": "E1",
+      "primary_color": "#801538",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Leeds": {
+      "raw_name": "Leeds",
+      "safe_name": "Yorkshire Whites",
+      "league": "E0",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#1D428A",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Portsmouth": {
+      "raw_name": "Portsmouth",
+      "safe_name": "Portsmouth United",
+      "league": "E1",
+      "primary_color": "#801538",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Middlesbrough": {
+      "raw_name": "Middlesbrough",
+      "safe_name": "Teesside Reds",
+      "league": "E1",
+      "primary_color": "#E11B22",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#E11B22",
+      "pattern": "hoops"
+    },
+    "Swansea": {
+      "raw_name": "Swansea",
+      "safe_name": "Swansea Town",
+      "league": "E1",
+      "primary_color": "#59CBE8",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#13294B",
+      "pattern": "solid"
+    },
+    "Millwall": {
+      "raw_name": "Millwall",
+      "safe_name": "Millwall City",
+      "league": "E1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Watford": {
+      "raw_name": "Watford",
+      "safe_name": "Hertford Hornets",
+      "league": "E1",
+      "primary_color": "#FBEE23",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Oxford": {
+      "raw_name": "Oxford",
+      "safe_name": "Oxford Rovers",
+      "league": "E1",
+      "primary_color": "#FFD100",
+      "secondary_color": "#004B9B",
+      "shorts_color": "#004B9B",
+      "pattern": "solid"
+    },
+    "Norwich": {
+      "raw_name": "Norwich",
+      "safe_name": "Norfolk Canaries",
+      "league": "E1",
+      "primary_color": "#FFF200",
+      "secondary_color": "#00A650",
+      "shorts_color": "#00A650",
+      "pattern": "solid"
+    },
+    "QPR": {
+      "raw_name": "QPR",
+      "safe_name": "QPR City",
+      "league": "E1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "West Brom": {
+      "raw_name": "West Brom",
+      "safe_name": "Albion Throstles",
+      "league": "E1",
+      "primary_color": "#122F67",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Stoke": {
+      "raw_name": "Stoke",
+      "safe_name": "Stoke United",
+      "league": "E1",
+      "primary_color": "#C8102E",
+      "secondary_color": "#003399",
+      "shorts_color": "#003399",
+      "pattern": "stripes"
+    },
+    "Coventry": {
+      "raw_name": "Coventry",
+      "safe_name": "Midlands Sky Blues",
+      "league": "E0",
+      "primary_color": "#59CBE8",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#59CBE8",
+      "pattern": "solid"
+    },
+    "Sheffield Weds": {
+      "raw_name": "Sheffield Weds",
+      "safe_name": "Steel City Owls",
+      "league": "E1",
+      "primary_color": "#0066B2",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Plymouth": {
+      "raw_name": "Plymouth",
+      "safe_name": "Plymouth Town",
+      "league": "E1",
+      "primary_color": "#59CBE8",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#13294B",
+      "pattern": "solid"
+    },
+    "Luton": {
+      "raw_name": "Luton",
+      "safe_name": "Luton Rovers",
+      "league": "E1",
+      "primary_color": "#FFD100",
+      "secondary_color": "#004B9B",
+      "shorts_color": "#004B9B",
+      "pattern": "solid"
+    },
+    "Burnley": {
+      "raw_name": "Burnley",
+      "safe_name": "Lancashire Clarets",
+      "league": "E1",
+      "primary_color": "#6C1D45",
+      "secondary_color": "#99D6EA",
+      "shorts_color": "#FFFFFF",
+      "pattern": "sleeves"
+    },
+    "Le Havre": {
+      "raw_name": "Le Havre",
+      "safe_name": "Le Havre Racing",
+      "league": "F1",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "Paris SG": {
+      "raw_name": "Paris SG",
+      "safe_name": "Paris Red-Blue",
+      "league": "F1",
+      "primary_color": "#004170",
+      "secondary_color": "#DA291C",
+      "shorts_color": "#004170",
+      "pattern": "hoops"
+    },
+    "Brest": {
+      "raw_name": "Brest",
+      "safe_name": "Finistere Pirates",
+      "league": "F1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Marseille": {
+      "raw_name": "Marseille",
+      "safe_name": "Marseille White-Azure",
+      "league": "F1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#2FAEE0",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Reims": {
+      "raw_name": "Reims",
+      "safe_name": "Reims Sporting",
+      "league": "F2",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Lille": {
+      "raw_name": "Lille",
+      "safe_name": "Flanders Mastiffs",
+      "league": "F1",
+      "primary_color": "#E01E13",
+      "secondary_color": "#1D284D",
+      "shorts_color": "#1D284D",
+      "pattern": "solid"
+    },
+    "Monaco": {
+      "raw_name": "Monaco",
+      "safe_name": "Principality Red-White",
+      "league": "F1",
+      "primary_color": "#E51B24",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "sleeves"
+    },
+    "St Etienne": {
+      "raw_name": "St Etienne",
+      "safe_name": "Forez Greens",
+      "league": "F2",
+      "primary_color": "#008D36",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Auxerre": {
+      "raw_name": "Auxerre",
+      "safe_name": "Auxerre AS",
+      "league": "F1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Nice": {
+      "raw_name": "Nice",
+      "safe_name": "Riviera Eaglets",
+      "league": "F1",
+      "primary_color": "#D61016",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Angers": {
+      "raw_name": "Angers",
+      "safe_name": "Angers Stade",
+      "league": "F1",
+      "primary_color": "#5B2C83",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#5B2C83",
+      "pattern": "solid"
+    },
+    "Lens": {
+      "raw_name": "Lens",
+      "safe_name": "Artois Blood-Gold",
+      "league": "F1",
+      "primary_color": "#EC1C24",
+      "secondary_color": "#FFF200",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Montpellier": {
+      "raw_name": "Montpellier",
+      "safe_name": "Montpellier Stade",
+      "league": "F2",
+      "primary_color": "#5B2C83",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#5B2C83",
+      "pattern": "solid"
+    },
+    "Strasbourg": {
+      "raw_name": "Strasbourg",
+      "safe_name": "Alsace Blue-White",
+      "league": "F1",
+      "primary_color": "#005CA9",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Toulouse": {
+      "raw_name": "Toulouse",
+      "safe_name": "Garonne Violets",
+      "league": "F1",
+      "primary_color": "#5E2B83",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Nantes": {
+      "raw_name": "Nantes",
+      "safe_name": "Loire Canaries",
+      "league": "F2",
+      "primary_color": "#FDE100",
+      "secondary_color": "#009640",
+      "shorts_color": "#FDE100",
+      "pattern": "solid"
+    },
+    "Rennes": {
+      "raw_name": "Rennes",
+      "safe_name": "Brittany Red-Black",
+      "league": "F1",
+      "primary_color": "#E30613",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Lyon": {
+      "raw_name": "Lyon",
+      "safe_name": "Rhone Lions",
+      "league": "F1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#DA291C",
+      "shorts_color": "#FFFFFF",
+      "pattern": "hoops"
+    },
+    "Ajaccio": {
+      "raw_name": "Ajaccio",
+      "safe_name": "Ajaccio Sporting",
+      "league": "F2",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Rodez": {
+      "raw_name": "Rodez",
+      "safe_name": "Rodez Union",
+      "league": "F2",
+      "primary_color": "#59CBE8",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#13294B",
+      "pattern": "solid"
+    },
+    "Amiens": {
+      "raw_name": "Amiens",
+      "safe_name": "Amiens Sporting",
+      "league": "F2",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Red Star": {
+      "raw_name": "Red Star",
+      "safe_name": "Red Star Sporting",
+      "league": "F2",
+      "primary_color": "#0055A4",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Clermont": {
+      "raw_name": "Clermont",
+      "safe_name": "Clermont Sporting",
+      "league": "F2",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Pau FC": {
+      "raw_name": "Pau FC",
+      "safe_name": "Pau AS",
+      "league": "F2",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Dunkerque": {
+      "raw_name": "Dunkerque",
+      "safe_name": "Dunkerque AS",
+      "league": "F2",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#151515",
+      "shorts_color": "#151515",
+      "pattern": "stripes"
+    },
+    "Annecy": {
+      "raw_name": "Annecy",
+      "safe_name": "Annecy Sporting",
+      "league": "F2",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Grenoble": {
+      "raw_name": "Grenoble",
+      "safe_name": "Grenoble Stade",
+      "league": "F2",
+      "primary_color": "#008037",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "hoops"
+    },
+    "Laval": {
+      "raw_name": "Laval",
+      "safe_name": "Laval Racing",
+      "league": "F2",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "Guingamp": {
+      "raw_name": "Guingamp",
+      "safe_name": "Guingamp Racing",
+      "league": "F2",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "Troyes": {
+      "raw_name": "Troyes",
+      "safe_name": "Troyes Racing",
+      "league": "F1",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "Caen": {
+      "raw_name": "Caen",
+      "safe_name": "Caen Sporting",
+      "league": "F2",
+      "primary_color": "#0055A4",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Paris FC": {
+      "raw_name": "Paris FC",
+      "safe_name": "Paris AS",
+      "league": "F1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Martigues": {
+      "raw_name": "Martigues",
+      "safe_name": "Martigues Olympique",
+      "league": "F2",
+      "primary_color": "#C8102E",
+      "secondary_color": "#003399",
+      "shorts_color": "#003399",
+      "pattern": "stripes"
+    },
+    "Lorient": {
+      "raw_name": "Lorient",
+      "safe_name": "Lorient Stade",
+      "league": "F1",
+      "primary_color": "#008037",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "hoops"
+    },
+    "Metz": {
+      "raw_name": "Metz",
+      "safe_name": "Metz Olympique",
+      "league": "F2",
+      "primary_color": "#C8102E",
+      "secondary_color": "#003399",
+      "shorts_color": "#003399",
+      "pattern": "stripes"
+    },
+    "Bastia": {
+      "raw_name": "Bastia",
+      "safe_name": "Bastia AS",
+      "league": "F2",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#151515",
+      "shorts_color": "#151515",
+      "pattern": "stripes"
+    },
+    "PAOK": {
+      "raw_name": "PAOK",
+      "safe_name": "Thessaloniki Black-White",
+      "league": "G1",
+      "primary_color": "#111111",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Panserraikos": {
+      "raw_name": "Panserraikos",
+      "safe_name": "Panserraikos AE",
+      "league": "G1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Volos NFC": {
+      "raw_name": "Volos NFC",
+      "safe_name": "Volos NFC United",
+      "league": "G1",
+      "primary_color": "#59CBE8",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#13294B",
+      "pattern": "solid"
+    },
+    "Olympiakos": {
+      "raw_name": "Olympiakos",
+      "safe_name": "Piraeus Red-White",
+      "league": "G1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#E30613",
+      "pattern": "stripes"
+    },
+    "Levadeiakos": {
+      "raw_name": "Levadeiakos",
+      "safe_name": "Levadeiakos AO",
+      "league": "G1",
+      "primary_color": "#801538",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Athens Kallithea": {
+      "raw_name": "Athens Kallithea",
+      "safe_name": "Athens Kallithea Asteras",
+      "league": "G1",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "Panathinaikos": {
+      "raw_name": "Panathinaikos",
+      "safe_name": "Athens Shamrocks",
+      "league": "G1",
+      "primary_color": "#007A33",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Asteras Tripolis": {
+      "raw_name": "Asteras Tripolis",
+      "safe_name": "Asteras Tripolis Apollon",
+      "league": "G1",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Atromitos": {
+      "raw_name": "Atromitos",
+      "safe_name": "Atromitos Athletic",
+      "league": "G1",
+      "primary_color": "#5B2C83",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#5B2C83",
+      "pattern": "solid"
+    },
+    "Aris": {
+      "raw_name": "Aris",
+      "safe_name": "Aris United",
+      "league": "G1",
+      "primary_color": "#0077B6",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "AEK": {
+      "raw_name": "AEK",
+      "safe_name": "Athens Yellow-Black",
+      "league": "G1",
+      "primary_color": "#FDE100",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "OFI Crete": {
+      "raw_name": "OFI Crete",
+      "safe_name": "OFI Crete Apollon",
+      "league": "G1",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Panetolikos": {
+      "raw_name": "Panetolikos",
+      "safe_name": "Panetolikos Apollon",
+      "league": "G1",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Lamia": {
+      "raw_name": "Lamia",
+      "safe_name": "Lamia AE",
+      "league": "G1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Genoa": {
+      "raw_name": "Genoa",
+      "safe_name": "Genoa Griffins",
+      "league": "I1",
+      "primary_color": "#A6192E",
+      "secondary_color": "#13294B",
+      "shorts_color": "#13294B",
+      "pattern": "stripes"
+    },
+    "Inter": {
+      "raw_name": "Inter",
+      "safe_name": "Milano Blue-Black",
+      "league": "I1",
+      "primary_color": "#00529F",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Parma": {
+      "raw_name": "Parma",
+      "safe_name": "Parma Crusaders",
+      "league": "I1",
+      "primary_color": "#F4D35E",
+      "secondary_color": "#1D3557",
+      "shorts_color": "#1D3557",
+      "pattern": "hoops"
+    },
+    "Fiorentina": {
+      "raw_name": "Fiorentina",
+      "safe_name": "Florence Viola",
+      "league": "I1",
+      "primary_color": "#5B2C83",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#5B2C83",
+      "pattern": "solid"
+    },
+    "Empoli": {
+      "raw_name": "Empoli",
+      "safe_name": "Empoli Azure",
+      "league": "I2",
+      "primary_color": "#00509D",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#00509D",
+      "pattern": "solid"
+    },
+    "Monza": {
+      "raw_name": "Monza",
+      "safe_name": "Monza Red-White",
+      "league": "I1",
+      "primary_color": "#D62828",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#D62828",
+      "pattern": "solid"
+    },
+    "Milan": {
+      "raw_name": "Milan",
+      "safe_name": "Milano Red-Black",
+      "league": "I1",
+      "primary_color": "#D4001A",
+      "secondary_color": "#111111",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Torino": {
+      "raw_name": "Torino",
+      "safe_name": "Turin Maroon",
+      "league": "I1",
+      "primary_color": "#8A1E24",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Bologna": {
+      "raw_name": "Bologna",
+      "safe_name": "Bologna Red-Blue",
+      "league": "I1",
+      "primary_color": "#9E1B32",
+      "secondary_color": "#1A2B4C",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Udinese": {
+      "raw_name": "Udinese",
+      "safe_name": "Friuli Zebras",
+      "league": "I1",
+      "primary_color": "#EEEEEE",
+      "secondary_color": "#1A1A1A",
+      "shorts_color": "#1A1A1A",
+      "pattern": "stripes"
+    },
+    "Verona": {
+      "raw_name": "Verona",
+      "safe_name": "Verona Yellow-Blue",
+      "league": "I2",
+      "primary_color": "#1D3557",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#1D3557",
+      "pattern": "solid"
+    },
+    "Napoli": {
+      "raw_name": "Napoli",
+      "safe_name": "Naples Sky Blue",
+      "league": "I1",
+      "primary_color": "#0088D4",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Cagliari": {
+      "raw_name": "Cagliari",
+      "safe_name": "Sardinia Islanders",
+      "league": "I1",
+      "primary_color": "#A51C30",
+      "secondary_color": "#13294B",
+      "shorts_color": "#13294B",
+      "pattern": "stripes"
+    },
+    "Roma": {
+      "raw_name": "Roma",
+      "safe_name": "Rome Crimson-Gold",
+      "league": "I1",
+      "primary_color": "#8E1F2F",
+      "secondary_color": "#F0BC42",
+      "shorts_color": "#8E1F2F",
+      "pattern": "solid"
+    },
+    "Lazio": {
+      "raw_name": "Lazio",
+      "safe_name": "Rome Sky Eagles",
+      "league": "I1",
+      "primary_color": "#75B2DD",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Venezia": {
+      "raw_name": "Venezia",
+      "safe_name": "Venice Lions",
+      "league": "I1",
+      "primary_color": "#1A1A1A",
+      "secondary_color": "#E76F51",
+      "shorts_color": "#1A1A1A",
+      "pattern": "stripes"
+    },
+    "Lecce": {
+      "raw_name": "Lecce",
+      "safe_name": "Salento Wolves",
+      "league": "I1",
+      "primary_color": "#E63946",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#1D3557",
+      "pattern": "stripes"
+    },
+    "Atalanta": {
+      "raw_name": "Atalanta",
+      "safe_name": "Bergamo Goddess",
+      "league": "I1",
+      "primary_color": "#1E56A0",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Juventus": {
+      "raw_name": "Juventus",
+      "safe_name": "Turin Black-White",
+      "league": "I1",
+      "primary_color": "#F5F5F5",
+      "secondary_color": "#151515",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Como": {
+      "raw_name": "Como",
+      "safe_name": "Como Lake Blue",
+      "league": "I1",
+      "primary_color": "#0077B6",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#0077B6",
+      "pattern": "solid"
+    },
+    "Brescia": {
+      "raw_name": "Brescia",
+      "safe_name": "Brescia Lioness",
+      "league": "I2",
+      "primary_color": "#0066B2",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Palermo": {
+      "raw_name": "Palermo",
+      "safe_name": "Sicily Pink-Black",
+      "league": "I2",
+      "primary_color": "#F48FB1",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Bari": {
+      "raw_name": "Bari",
+      "safe_name": "Apulia Roosters",
+      "league": "I2",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#D62828",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Juve Stabia": {
+      "raw_name": "Juve Stabia",
+      "safe_name": "Juve Stabia Calcio",
+      "league": "I2",
+      "primary_color": "#C8102E",
+      "secondary_color": "#003399",
+      "shorts_color": "#003399",
+      "pattern": "stripes"
+    },
+    "Pisa": {
+      "raw_name": "Pisa",
+      "safe_name": "Pisa Tower Black-Blue",
+      "league": "I2",
+      "primary_color": "#023E8A",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Spezia": {
+      "raw_name": "Spezia",
+      "safe_name": "Liguria Eagles",
+      "league": "I2",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Salernitana": {
+      "raw_name": "Salernitana",
+      "safe_name": "Salerno Seahorses",
+      "league": "I2",
+      "primary_color": "#781D27",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Cittadella": {
+      "raw_name": "Cittadella",
+      "safe_name": "Cittadella AC",
+      "league": "I2",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#151515",
+      "shorts_color": "#151515",
+      "pattern": "stripes"
+    },
+    "Sudtirol": {
+      "raw_name": "Sudtirol",
+      "safe_name": "Sudtirol AC",
+      "league": "I2",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Modena": {
+      "raw_name": "Modena",
+      "safe_name": "Modena Canaries",
+      "league": "I2",
+      "primary_color": "#F4D35E",
+      "secondary_color": "#1D3557",
+      "shorts_color": "#1D3557",
+      "pattern": "solid"
+    },
+    "Catanzaro": {
+      "raw_name": "Catanzaro",
+      "safe_name": "Calabria Red-Gold",
+      "league": "I2",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "Sassuolo": {
+      "raw_name": "Sassuolo",
+      "safe_name": "Emilia Green-Black",
+      "league": "I1",
+      "primary_color": "#008037",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Cesena": {
+      "raw_name": "Cesena",
+      "safe_name": "Romagna Seahorses",
+      "league": "I2",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Carrarese": {
+      "raw_name": "Carrarese",
+      "safe_name": "Carrarese AC",
+      "league": "I2",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#151515",
+      "shorts_color": "#151515",
+      "pattern": "stripes"
+    },
+    "Cosenza": {
+      "raw_name": "Cosenza",
+      "safe_name": "Cosenza AC",
+      "league": "I2",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Cremonese": {
+      "raw_name": "Cremonese",
+      "safe_name": "Cremona Grey-Red",
+      "league": "I2",
+      "primary_color": "#C1121F",
+      "secondary_color": "#A8A8A8",
+      "shorts_color": "#C1121F",
+      "pattern": "stripes"
+    },
+    "Frosinone": {
+      "raw_name": "Frosinone",
+      "safe_name": "Ciociaria Lions",
+      "league": "I1",
+      "primary_color": "#F4D35E",
+      "secondary_color": "#00509D",
+      "shorts_color": "#F4D35E",
+      "pattern": "solid"
+    },
+    "Sampdoria": {
+      "raw_name": "Sampdoria",
+      "safe_name": "Genoa Blue-Ring",
+      "league": "I2",
+      "primary_color": "#0055A4",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "hoops"
+    },
+    "Reggiana": {
+      "raw_name": "Reggiana",
+      "safe_name": "Reggio Maroon",
+      "league": "I2",
+      "primary_color": "#7B1E26",
+      "secondary_color": "#1D3557",
+      "shorts_color": "#1D3557",
+      "pattern": "solid"
+    },
+    "Mantova": {
+      "raw_name": "Mantova",
+      "safe_name": "Mantova United",
+      "league": "I2",
+      "primary_color": "#59CBE8",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#13294B",
+      "pattern": "solid"
+    },
+    "Groningen": {
+      "raw_name": "Groningen",
+      "safe_name": "Groningen Fortuna",
+      "league": "N1",
+      "primary_color": "#0055A4",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "NAC Breda": {
+      "raw_name": "NAC Breda",
+      "safe_name": "NAC Breda VV",
+      "league": "N1",
+      "primary_color": "#C8102E",
+      "secondary_color": "#003399",
+      "shorts_color": "#003399",
+      "pattern": "stripes"
+    },
+    "Feyenoord": {
+      "raw_name": "Feyenoord",
+      "safe_name": "Rotterdam South",
+      "league": "N1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#111111",
+      "pattern": "sleeves"
+    },
+    "Willem II": {
+      "raw_name": "Willem II",
+      "safe_name": "Willem II Excelsior",
+      "league": "N1",
+      "primary_color": "#5B2C83",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#5B2C83",
+      "pattern": "solid"
+    },
+    "Nijmegen": {
+      "raw_name": "Nijmegen",
+      "safe_name": "Nijmegen Sparta",
+      "league": "N1",
+      "primary_color": "#FFD100",
+      "secondary_color": "#004B9B",
+      "shorts_color": "#004B9B",
+      "pattern": "solid"
+    },
+    "Twente": {
+      "raw_name": "Twente",
+      "safe_name": "Enschede Reds",
+      "league": "N1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#E30613",
+      "pattern": "solid"
+    },
+    "Almere City": {
+      "raw_name": "Almere City",
+      "safe_name": "Almere City Fortuna",
+      "league": "N1",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "AZ Alkmaar": {
+      "raw_name": "AZ Alkmaar",
+      "safe_name": "Alkmaar Red-White",
+      "league": "N1",
+      "primary_color": "#D4001A",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "PSV Eindhoven": {
+      "raw_name": "PSV Eindhoven",
+      "safe_name": "Eindhoven Red-White",
+      "league": "N1",
+      "primary_color": "#EE2523",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Waalwijk": {
+      "raw_name": "Waalwijk",
+      "safe_name": "Waalwijk Ajax",
+      "league": "N1",
+      "primary_color": "#59CBE8",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#13294B",
+      "pattern": "solid"
+    },
+    "Sparta Rotterdam": {
+      "raw_name": "Sparta Rotterdam",
+      "safe_name": "Sparta Rotterdam Fortuna",
+      "league": "N1",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Heracles": {
+      "raw_name": "Heracles",
+      "safe_name": "Heracles Sparta",
+      "league": "N1",
+      "primary_color": "#FFD100",
+      "secondary_color": "#004B9B",
+      "shorts_color": "#004B9B",
+      "pattern": "solid"
+    },
+    "Go Ahead Eagles": {
+      "raw_name": "Go Ahead Eagles",
+      "safe_name": "Go Ahead Eagles Sparta",
+      "league": "N1",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "For Sittard": {
+      "raw_name": "For Sittard",
+      "safe_name": "For Sittard Sportclub",
+      "league": "N1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Utrecht": {
+      "raw_name": "Utrecht",
+      "safe_name": "Utrecht Cathedral",
+      "league": "N1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "sleeves"
+    },
+    "Zwolle": {
+      "raw_name": "Zwolle",
+      "safe_name": "Zwolle Ajax",
+      "league": "N1",
+      "primary_color": "#0077B6",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Ajax": {
+      "raw_name": "Ajax",
+      "safe_name": "Amsterdam Red-White",
+      "league": "N1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#D2122E",
+      "shorts_color": "#FFFFFF",
+      "pattern": "sleeves"
+    },
+    "Heerenveen": {
+      "raw_name": "Heerenveen",
+      "safe_name": "Heerenveen Sparta",
+      "league": "N1",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "Sp Lisbon": {
+      "raw_name": "Sp Lisbon",
+      "safe_name": "Lisbon Green Lions",
+      "league": "P1",
+      "primary_color": "#008057",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#111111",
+      "pattern": "hoops"
+    },
+    "Rio Ave": {
+      "raw_name": "Rio Ave",
+      "safe_name": "Rio Ave Academica",
+      "league": "P1",
+      "primary_color": "#FFD100",
+      "secondary_color": "#004B9B",
+      "shorts_color": "#004B9B",
+      "pattern": "solid"
+    },
+    "AVS": {
+      "raw_name": "AVS",
+      "safe_name": "AVS Academica",
+      "league": "P1",
+      "primary_color": "#FFD100",
+      "secondary_color": "#004B9B",
+      "shorts_color": "#004B9B",
+      "pattern": "solid"
+    },
+    "Nacional": {
+      "raw_name": "Nacional",
+      "safe_name": "Nacional Atletico",
+      "league": "P1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Casa Pia": {
+      "raw_name": "Casa Pia",
+      "safe_name": "Casa Pia Atletico",
+      "league": "P1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#151515",
+      "shorts_color": "#151515",
+      "pattern": "stripes"
+    },
+    "Boavista": {
+      "raw_name": "Boavista",
+      "safe_name": "Boavista Atletico",
+      "league": "P1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Porto": {
+      "raw_name": "Porto",
+      "safe_name": "Oporto Dragons",
+      "league": "P1",
+      "primary_color": "#00428C",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#00428C",
+      "pattern": "stripes"
+    },
+    "Gil Vicente": {
+      "raw_name": "Gil Vicente",
+      "safe_name": "Gil Vicente Uniao",
+      "league": "P1",
+      "primary_color": "#0055A4",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Estoril": {
+      "raw_name": "Estoril",
+      "safe_name": "Estoril Sporting",
+      "league": "P1",
+      "primary_color": "#801538",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Santa Clara": {
+      "raw_name": "Santa Clara",
+      "safe_name": "Santa Clara Atletico",
+      "league": "P1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#151515",
+      "shorts_color": "#151515",
+      "pattern": "stripes"
+    },
+    "Famalicao": {
+      "raw_name": "Famalicao",
+      "safe_name": "Famalicao Estrela",
+      "league": "P1",
+      "primary_color": "#59CBE8",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#13294B",
+      "pattern": "solid"
+    },
+    "Benfica": {
+      "raw_name": "Benfica",
+      "safe_name": "Lisbon Eagles",
+      "league": "P1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Farense": {
+      "raw_name": "Farense",
+      "safe_name": "Farense Desportivo",
+      "league": "P1",
+      "primary_color": "#008037",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "hoops"
+    },
+    "Moreirense": {
+      "raw_name": "Moreirense",
+      "safe_name": "Moreirense Sporting",
+      "league": "P1",
+      "primary_color": "#801538",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Sp Braga": {
+      "raw_name": "Sp Braga",
+      "safe_name": "Minho Warriors",
+      "league": "P1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "sleeves"
+    },
+    "Estrela": {
+      "raw_name": "Estrela",
+      "safe_name": "Estrela Estrela",
+      "league": "P1",
+      "primary_color": "#0077B6",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Arouca": {
+      "raw_name": "Arouca",
+      "safe_name": "Arouca Estrela",
+      "league": "P1",
+      "primary_color": "#0077B6",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Guimaraes": {
+      "raw_name": "Guimaraes",
+      "safe_name": "Guimaraes Conquerors",
+      "league": "P1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Ath Bilbao": {
+      "raw_name": "Ath Bilbao",
+      "safe_name": "Bilbao Lions",
+      "league": "SP1",
+      "primary_color": "#EE2523",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Getafe": {
+      "raw_name": "Getafe",
+      "safe_name": "Madrid South Blues",
+      "league": "SP1",
+      "primary_color": "#005999",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#005999",
+      "pattern": "solid"
+    },
+    "Betis": {
+      "raw_name": "Betis",
+      "safe_name": "Seville Green-White",
+      "league": "SP1",
+      "primary_color": "#00954C",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Girona": {
+      "raw_name": "Girona",
+      "safe_name": "Girona Red-White",
+      "league": "SP2",
+      "primary_color": "#DA291C",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#DA291C",
+      "pattern": "stripes"
+    },
+    "Celta": {
+      "raw_name": "Celta",
+      "safe_name": "Vigo Sky Blues",
+      "league": "SP1",
+      "primary_color": "#8AC3EE",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Alaves": {
+      "raw_name": "Alaves",
+      "safe_name": "Vitoria Blue-White",
+      "league": "SP1",
+      "primary_color": "#0055A4",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#0055A4",
+      "pattern": "stripes"
+    },
+    "Las Palmas": {
+      "raw_name": "Las Palmas",
+      "safe_name": "Canary Yellows",
+      "league": "SP2",
+      "primary_color": "#FFD100",
+      "secondary_color": "#0055A4",
+      "shorts_color": "#0055A4",
+      "pattern": "solid"
+    },
+    "Sevilla": {
+      "raw_name": "Sevilla",
+      "safe_name": "Seville Red-White",
+      "league": "SP1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#D4001A",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Osasuna": {
+      "raw_name": "Osasuna",
+      "safe_name": "Pamplona Reds",
+      "league": "SP1",
+      "primary_color": "#D91A2A",
+      "secondary_color": "#13294B",
+      "shorts_color": "#13294B",
+      "pattern": "solid"
+    },
+    "Leganes": {
+      "raw_name": "Leganes",
+      "safe_name": "Madrid Cucumbers",
+      "league": "SP2",
+      "primary_color": "#0055A4",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Valencia": {
+      "raw_name": "Valencia",
+      "safe_name": "Valencia Bats",
+      "league": "SP1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Barcelona": {
+      "raw_name": "Barcelona",
+      "safe_name": "Catalonia Blaugrana",
+      "league": "SP1",
+      "primary_color": "#004D98",
+      "secondary_color": "#A50044",
+      "shorts_color": "#004D98",
+      "pattern": "stripes"
+    },
+    "Sociedad": {
+      "raw_name": "Sociedad",
+      "safe_name": "San Sebastian Royal",
+      "league": "SP1",
+      "primary_color": "#0067B1",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Vallecano": {
+      "raw_name": "Vallecano",
+      "safe_name": "Vallecas Lightning",
+      "league": "SP1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#E52521",
+      "shorts_color": "#FFFFFF",
+      "pattern": "hoops"
+    },
+    "Mallorca": {
+      "raw_name": "Mallorca",
+      "safe_name": "Palma Islanders",
+      "league": "SP2",
+      "primary_color": "#E20613",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Real Madrid": {
+      "raw_name": "Real Madrid",
+      "safe_name": "Madrid Whites",
+      "league": "SP1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#FEBE10",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Valladolid": {
+      "raw_name": "Valladolid",
+      "safe_name": "Valladolid Violet",
+      "league": "SP2",
+      "primary_color": "#5B2C83",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Espanol": {
+      "raw_name": "Espanol",
+      "safe_name": "Barcelona Parakeets",
+      "league": "SP1",
+      "primary_color": "#007FC8",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#007FC8",
+      "pattern": "stripes"
+    },
+    "Villarreal": {
+      "raw_name": "Villarreal",
+      "safe_name": "Castellon Submarines",
+      "league": "SP1",
+      "primary_color": "#FFE600",
+      "secondary_color": "#005187",
+      "shorts_color": "#FFE600",
+      "pattern": "solid"
+    },
+    "Ath Madrid": {
+      "raw_name": "Ath Madrid",
+      "safe_name": "Madrid Red-White",
+      "league": "SP1",
+      "primary_color": "#CB3524",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#003399",
+      "pattern": "stripes"
+    },
+    "Granada": {
+      "raw_name": "Granada",
+      "safe_name": "Granada Atletico",
+      "league": "SP2",
+      "primary_color": "#C8102E",
+      "secondary_color": "#003399",
+      "shorts_color": "#003399",
+      "pattern": "stripes"
+    },
+    "Albacete": {
+      "raw_name": "Albacete",
+      "safe_name": "Albacete Real",
+      "league": "SP2",
+      "primary_color": "#5B2C83",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#5B2C83",
+      "pattern": "solid"
+    },
+    "Mirandes": {
+      "raw_name": "Mirandes",
+      "safe_name": "Mirandes Atletico",
+      "league": "SP2",
+      "primary_color": "#C8102E",
+      "secondary_color": "#003399",
+      "shorts_color": "#003399",
+      "pattern": "stripes"
+    },
+    "Cordoba": {
+      "raw_name": "Cordoba",
+      "safe_name": "Cordoba Real",
+      "league": "SP2",
+      "primary_color": "#5B2C83",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#5B2C83",
+      "pattern": "solid"
+    },
+    "Cadiz": {
+      "raw_name": "Cadiz",
+      "safe_name": "Cadiz Deportivo",
+      "league": "SP2",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Zaragoza": {
+      "raw_name": "Zaragoza",
+      "safe_name": "Zaragoza Racing",
+      "league": "SP2",
+      "primary_color": "#0077B6",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Eibar": {
+      "raw_name": "Eibar",
+      "safe_name": "Eibar Sporting",
+      "league": "SP2",
+      "primary_color": "#FFD100",
+      "secondary_color": "#004B9B",
+      "shorts_color": "#004B9B",
+      "pattern": "solid"
+    },
+    "Castellon": {
+      "raw_name": "Castellon",
+      "safe_name": "Castellon Sporting",
+      "league": "SP2",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "Ferrol": {
+      "raw_name": "Ferrol",
+      "safe_name": "Ferrol Racing",
+      "league": "SP2",
+      "primary_color": "#59CBE8",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#13294B",
+      "pattern": "solid"
+    },
+    "Malaga": {
+      "raw_name": "Malaga",
+      "safe_name": "Malaga Union",
+      "league": "SP1",
+      "primary_color": "#0055A4",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "La Coruna": {
+      "raw_name": "La Coruna",
+      "safe_name": "La Coruna Atletico",
+      "league": "SP1",
+      "primary_color": "#C8102E",
+      "secondary_color": "#003399",
+      "shorts_color": "#003399",
+      "pattern": "stripes"
+    },
+    "Oviedo": {
+      "raw_name": "Oviedo",
+      "safe_name": "Oviedo Atletico",
+      "league": "SP2",
+      "primary_color": "#C8102E",
+      "secondary_color": "#003399",
+      "shorts_color": "#003399",
+      "pattern": "stripes"
+    },
+    "Santander": {
+      "raw_name": "Santander",
+      "safe_name": "Santander Deportivo",
+      "league": "SP1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Almeria": {
+      "raw_name": "Almeria",
+      "safe_name": "Almeria Union",
+      "league": "SP2",
+      "primary_color": "#0055A4",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Sp Gijon": {
+      "raw_name": "Sp Gijon",
+      "safe_name": "Sp Gijon Deportivo",
+      "league": "SP2",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Levante": {
+      "raw_name": "Levante",
+      "safe_name": "Levante Racing",
+      "league": "SP1",
+      "primary_color": "#0077B6",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Burgos": {
+      "raw_name": "Burgos",
+      "safe_name": "Burgos Sporting",
+      "league": "SP2",
+      "primary_color": "#FFD100",
+      "secondary_color": "#004B9B",
+      "shorts_color": "#004B9B",
+      "pattern": "solid"
+    },
+    "Cartagena": {
+      "raw_name": "Cartagena",
+      "safe_name": "Cartagena Sporting",
+      "league": "SP2",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "Elche": {
+      "raw_name": "Elche",
+      "safe_name": "Elche Deportivo",
+      "league": "SP1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Huesca": {
+      "raw_name": "Huesca",
+      "safe_name": "Huesca Union",
+      "league": "SP2",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Eldense": {
+      "raw_name": "Eldense",
+      "safe_name": "Eldense Deportivo",
+      "league": "SP2",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#151515",
+      "shorts_color": "#151515",
+      "pattern": "stripes"
+    },
+    "Tenerife": {
+      "raw_name": "Tenerife",
+      "safe_name": "Tenerife Sporting",
+      "league": "SP2",
+      "primary_color": "#FFD100",
+      "secondary_color": "#004B9B",
+      "shorts_color": "#004B9B",
+      "pattern": "solid"
+    },
+    "Galatasaray": {
+      "raw_name": "Galatasaray",
+      "safe_name": "Istanbul Lions",
+      "league": "T1",
+      "primary_color": "#A90432",
+      "secondary_color": "#FDB912",
+      "shorts_color": "#A90432",
+      "pattern": "stripes"
+    },
+    "Hatayspor": {
+      "raw_name": "Hatayspor",
+      "safe_name": "Hatayspor Spor",
+      "league": "T1",
+      "primary_color": "#008037",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "hoops"
+    },
+    "Kasimpasa": {
+      "raw_name": "Kasimpasa",
+      "safe_name": "Kasimpasa SK",
+      "league": "T1",
+      "primary_color": "#C8102E",
+      "secondary_color": "#003399",
+      "shorts_color": "#003399",
+      "pattern": "stripes"
+    },
+    "Konyaspor": {
+      "raw_name": "Konyaspor",
+      "safe_name": "Konyaspor Club",
+      "league": "T1",
+      "primary_color": "#0055A4",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Antalyaspor": {
+      "raw_name": "Antalyaspor",
+      "safe_name": "Antalyaspor United",
+      "league": "T1",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "Goztep": {
+      "raw_name": "Goztep",
+      "safe_name": "Goztep City",
+      "league": "T1",
+      "primary_color": "#59CBE8",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#13294B",
+      "pattern": "solid"
+    },
+    "Fenerbahce": {
+      "raw_name": "Fenerbahce",
+      "safe_name": "Istanbul Canaries",
+      "league": "T1",
+      "primary_color": "#002B5C",
+      "secondary_color": "#FFED00",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Ad. Demirspor": {
+      "raw_name": "Ad. Demirspor",
+      "safe_name": "Ad. Demirspor Spor",
+      "league": "T1",
+      "primary_color": "#008037",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "hoops"
+    },
+    "Sivasspor": {
+      "raw_name": "Sivasspor",
+      "safe_name": "Sivasspor Club",
+      "league": "T1",
+      "primary_color": "#0055A4",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Trabzonspor": {
+      "raw_name": "Trabzonspor",
+      "safe_name": "Black Sea Storm",
+      "league": "T1",
+      "primary_color": "#801538",
+      "secondary_color": "#42A5F5",
+      "shorts_color": "#801538",
+      "pattern": "stripes"
+    },
+    "Alanyaspor": {
+      "raw_name": "Alanyaspor",
+      "safe_name": "Alanyaspor Club",
+      "league": "T1",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Eyupspor": {
+      "raw_name": "Eyupspor",
+      "safe_name": "Eyupspor United",
+      "league": "T1",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "Samsunspor": {
+      "raw_name": "Samsunspor",
+      "safe_name": "Samsunspor Athletic",
+      "league": "T1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Besiktas": {
+      "raw_name": "Besiktas",
+      "safe_name": "Istanbul Black Eagles",
+      "league": "T1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Bodrumspor": {
+      "raw_name": "Bodrumspor",
+      "safe_name": "Bodrumspor City",
+      "league": "T1",
+      "primary_color": "#59CBE8",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#13294B",
+      "pattern": "solid"
+    },
+    "Gaziantep": {
+      "raw_name": "Gaziantep",
+      "safe_name": "Gaziantep Club",
+      "league": "T1",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Rizespor": {
+      "raw_name": "Rizespor",
+      "safe_name": "Rizespor City",
+      "league": "T1",
+      "primary_color": "#0077B6",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Buyuksehyr": {
+      "raw_name": "Buyuksehyr",
+      "safe_name": "Buyuksehyr Athletic",
+      "league": "T1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#151515",
+      "shorts_color": "#151515",
+      "pattern": "stripes"
+    },
+    "Kayserispor": {
+      "raw_name": "Kayserispor",
+      "safe_name": "Kayserispor Athletic",
+      "league": "T1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#151515",
+      "shorts_color": "#151515",
+      "pattern": "stripes"
+    },
+    "Waregem": {
+      "raw_name": "Waregem",
+      "safe_name": "Waregem Union",
+      "league": "B1",
+      "primary_color": "#5B2C83",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#5B2C83",
+      "pattern": "solid"
+    },
+    "RAAL La Louviere": {
+      "raw_name": "RAAL La Louviere",
+      "safe_name": "RAAL La Louviere KV",
+      "league": "B1",
+      "primary_color": "#C8102E",
+      "secondary_color": "#003399",
+      "shorts_color": "#003399",
+      "pattern": "stripes"
+    },
+    "Bielefeld": {
+      "raw_name": "Bielefeld",
+      "safe_name": "Bielefeld Eintracht",
+      "league": "D2",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#151515",
+      "shorts_color": "#151515",
+      "pattern": "stripes"
+    },
+    "Dresden": {
+      "raw_name": "Dresden",
+      "safe_name": "Dresden Eintracht",
+      "league": "D2",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Birmingham": {
+      "raw_name": "Birmingham",
+      "safe_name": "Birmingham Rovers",
+      "league": "E1",
+      "primary_color": "#FFD100",
+      "secondary_color": "#004B9B",
+      "shorts_color": "#004B9B",
+      "pattern": "solid"
+    },
+    "Charlton": {
+      "raw_name": "Charlton",
+      "safe_name": "Charlton Rovers",
+      "league": "E1",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "Wrexham": {
+      "raw_name": "Wrexham",
+      "safe_name": "Wrexham City",
+      "league": "E1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Le Mans": {
+      "raw_name": "Le Mans",
+      "safe_name": "Le Mans Stade",
+      "league": "F1",
+      "primary_color": "#008037",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "hoops"
+    },
+    "Nancy": {
+      "raw_name": "Nancy",
+      "safe_name": "Nancy AS",
+      "league": "F2",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Boulogne": {
+      "raw_name": "Boulogne",
+      "safe_name": "Boulogne Sporting",
+      "league": "F2",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Larisa": {
+      "raw_name": "Larisa",
+      "safe_name": "Larisa Athletic",
+      "league": "G1",
+      "primary_color": "#008037",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "hoops"
+    },
+    "Kifisia": {
+      "raw_name": "Kifisia",
+      "safe_name": "Kifisia Apollon",
+      "league": "G1",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Pescara": {
+      "raw_name": "Pescara",
+      "safe_name": "Pescara United",
+      "league": "I2",
+      "primary_color": "#0077B6",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Padova": {
+      "raw_name": "Padova",
+      "safe_name": "Padova Calcio",
+      "league": "I2",
+      "primary_color": "#C8102E",
+      "secondary_color": "#003399",
+      "shorts_color": "#003399",
+      "pattern": "stripes"
+    },
+    "Virtus Entella": {
+      "raw_name": "Virtus Entella",
+      "safe_name": "Virtus Entella Sporting",
+      "league": "I2",
+      "primary_color": "#FFD100",
+      "secondary_color": "#004B9B",
+      "shorts_color": "#004B9B",
+      "pattern": "solid"
+    },
+    "Avellino": {
+      "raw_name": "Avellino",
+      "safe_name": "Avellino Virtus",
+      "league": "I2",
+      "primary_color": "#008037",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "hoops"
+    },
+    "Excelsior": {
+      "raw_name": "Excelsior",
+      "safe_name": "Excelsior Sparta",
+      "league": "N1",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "Volendam": {
+      "raw_name": "Volendam",
+      "safe_name": "Volendam Sparta",
+      "league": "N1",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "Telstar": {
+      "raw_name": "Telstar",
+      "safe_name": "Telstar Ajax",
+      "league": "N1",
+      "primary_color": "#59CBE8",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#13294B",
+      "pattern": "solid"
+    },
+    "Alverca": {
+      "raw_name": "Alverca",
+      "safe_name": "Alverca Desportivo",
+      "league": "P1",
+      "primary_color": "#5B2C83",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#5B2C83",
+      "pattern": "solid"
+    },
+    "Tondela": {
+      "raw_name": "Tondela",
+      "safe_name": "Tondela Uniao",
+      "league": "P1",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Cultural Leonesa": {
+      "raw_name": "Cultural Leonesa",
+      "safe_name": "Cultural Leonesa Racing",
+      "league": "SP2",
+      "primary_color": "#59CBE8",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#13294B",
+      "pattern": "solid"
+    },
+    "Ceuta": {
+      "raw_name": "Ceuta",
+      "safe_name": "Ceuta Deportivo",
+      "league": "SP2",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#151515",
+      "shorts_color": "#151515",
+      "pattern": "stripes"
+    },
+    "Sociedad B": {
+      "raw_name": "Sociedad B",
+      "safe_name": "Sociedad B Union",
+      "league": "SP2",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Andorra": {
+      "raw_name": "Andorra",
+      "safe_name": "Andorra Racing",
+      "league": "SP2",
+      "primary_color": "#0077B6",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Genclerbirligi": {
+      "raw_name": "Genclerbirligi",
+      "safe_name": "Genclerbirligi Spor",
+      "league": "T1",
+      "primary_color": "#5B2C83",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#5B2C83",
+      "pattern": "solid"
+    },
+    "Kocaelispor": {
+      "raw_name": "Kocaelispor",
+      "safe_name": "Kocaelispor SK",
+      "league": "T1",
+      "primary_color": "#801538",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Karagumruk": {
+      "raw_name": "Karagumruk",
+      "safe_name": "Karagumruk United",
+      "league": "T1",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "Lommel SK": {
+      "raw_name": "Lommel SK",
+      "safe_name": "Lommel Standard",
+      "league": "B1",
+      "primary_color": "#59CBE8",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#13294B",
+      "pattern": "solid"
+    },
+    "Beveren": {
+      "raw_name": "Beveren",
+      "safe_name": "Beveren Cercle",
+      "league": "B1",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Osnabruck": {
+      "raw_name": "Osnabruck",
+      "safe_name": "Osnabruck SC",
+      "league": "D2",
+      "primary_color": "#0077B6",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Cottbus": {
+      "raw_name": "Cottbus",
+      "safe_name": "Cottbus VfL",
+      "league": "D2",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Bolton": {
+      "raw_name": "Bolton",
+      "safe_name": "Bolton Town",
+      "league": "E1",
+      "primary_color": "#0077B6",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Lincoln": {
+      "raw_name": "Lincoln",
+      "safe_name": "Lincoln City",
+      "league": "E1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Dijon": {
+      "raw_name": "Dijon",
+      "safe_name": "Dijon Stade",
+      "league": "F2",
+      "primary_color": "#5B2C83",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#5B2C83",
+      "pattern": "solid"
+    },
+    "Sochaux": {
+      "raw_name": "Sochaux",
+      "safe_name": "Sochaux AS",
+      "league": "F2",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#151515",
+      "shorts_color": "#151515",
+      "pattern": "stripes"
+    },
+    "Iraklis": {
+      "raw_name": "Iraklis",
+      "safe_name": "Iraklis AE",
+      "league": "G1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Kalamata": {
+      "raw_name": "Kalamata",
+      "safe_name": "Kalamata United",
+      "league": "G1",
+      "primary_color": "#59CBE8",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#13294B",
+      "pattern": "solid"
+    },
+    "Vicenza": {
+      "raw_name": "Vicenza",
+      "safe_name": "Vicenza Sporting",
+      "league": "I2",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "Arezzo": {
+      "raw_name": "Arezzo",
+      "safe_name": "Arezzo Atletico",
+      "league": "I2",
+      "primary_color": "#F3722C",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "solid"
+    },
+    "Benevento": {
+      "raw_name": "Benevento",
+      "safe_name": "Benevento Atletico",
+      "league": "I2",
+      "primary_color": "#0055A4",
+      "secondary_color": "#111111",
+      "shorts_color": "#111111",
+      "pattern": "stripes"
+    },
+    "Ascoli": {
+      "raw_name": "Ascoli",
+      "safe_name": "Ascoli Sporting",
+      "league": "I2",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "Cambuur": {
+      "raw_name": "Cambuur",
+      "safe_name": "Cambuur Sparta",
+      "league": "N1",
+      "primary_color": "#FFD100",
+      "secondary_color": "#004B9B",
+      "shorts_color": "#004B9B",
+      "pattern": "solid"
+    },
+    "Den Haag": {
+      "raw_name": "Den Haag",
+      "safe_name": "Den Haag Sportclub",
+      "league": "N1",
+      "primary_color": "#E30613",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "stripes"
+    },
+    "Maritimo": {
+      "raw_name": "Maritimo",
+      "safe_name": "Maritimo Estrela",
+      "league": "P1",
+      "primary_color": "#0077B6",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#FFFFFF",
+      "pattern": "solid"
+    },
+    "Academico Viseu": {
+      "raw_name": "Academico Viseu",
+      "safe_name": "Academico Viseu Academica",
+      "league": "P1",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "Celta B": {
+      "raw_name": "Celta B",
+      "safe_name": "Celta B Real",
+      "league": "SP2",
+      "primary_color": "#5B2C83",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#5B2C83",
+      "pattern": "solid"
+    },
+    "Sabadell": {
+      "raw_name": "Sabadell",
+      "safe_name": "Sabadell Sporting",
+      "league": "SP2",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "Corum": {
+      "raw_name": "Corum",
+      "safe_name": "Corum United",
+      "league": "T1",
+      "primary_color": "#D62828",
+      "secondary_color": "#F4D35E",
+      "shorts_color": "#D62828",
+      "pattern": "stripes"
+    },
+    "Amedspor": {
+      "raw_name": "Amedspor",
+      "safe_name": "Amedspor Athletic",
+      "league": "T1",
+      "primary_color": "#FFFFFF",
+      "secondary_color": "#151515",
+      "shorts_color": "#151515",
+      "pattern": "stripes"
+    },
+    "Erzurumspor": {
+      "raw_name": "Erzurumspor",
+      "safe_name": "Erzurumspor Spor",
+      "league": "T1",
+      "primary_color": "#5B2C83",
+      "secondary_color": "#FFFFFF",
+      "shorts_color": "#5B2C83",
+      "pattern": "solid"
+    }
+  }
+}
