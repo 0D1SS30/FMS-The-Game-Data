@@ -1,7 +1,7 @@
 {
 	"version": "5.0",
 	"license_notice": "Pre-trained AI Random Forest + Dixon-Coles Goal Model & team ratings for FMS - The Game.",
-	"generated_at_utc": "2026-11-18T15:06:23Z",
+	"generated_at_utc": "2026-11-20T14:53:20Z",
 	"last_update_date": "16/11/2026",
 	"train_samples_count": 11398,
 	"total_matches_count": 11995,
